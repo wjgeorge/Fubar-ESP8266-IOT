@@ -20,7 +20,8 @@
 Needed for Windows or Mac, get udev rules for Ubuntu [here](http://docs.platformio.org/en/latest/faq.html#platformio-udev-rules)
 
 - [cp2102](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
-- [ch340:](http://www.wch.cn/download/CH341SER_MAC_ZIP.html)
+- [ch340](http://www.wch.cn/download/CH341SER_MAC_ZIP.html)
+- [ftdi](https://www.ftdichip.com/Drivers/VCP.htm)
 - [pl2303](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)
 
 ### ESP8266 nodeMCU board pinouts
